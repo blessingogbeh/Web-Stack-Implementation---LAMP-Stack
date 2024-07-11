@@ -17,7 +17,7 @@ This project is a web application built using the LAMP stack, which stands for L
   git clone https://github.com/blessingogbeh/Web-Stack-Implementation---LAMP-Stack.git
 ```
 ```
-cd yourproject
+cd Web-Stack-Implementation---LAMP-Stack
 ```
 2. Execute LAMP.sh on an ubuntu server
 ```
